@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <version>2018.4-BETA</version>
+  <version>2018.7-BETA</version>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>mqe</artifactId>
   <packaging>pom</packaging>
@@ -14,9 +14,9 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
   <modules>
-    <module>../dqa-codebase-client</module>
-    <module>../dqa-hl7-util</module>
-    <module>../dqa-validator</module>
-    <module>../dqa-message-hub</module>
+    <module>../codebase-client</module>
+    <module>../mqe-hl7-util</module>
+    <module>../mqe-validator</module>
+    <module>../mqe-message-hub</module>
   </modules>
 </project>
