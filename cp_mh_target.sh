@@ -1,1 +1,1 @@
-cp ../mqe-message-hub/target/mqe-message-hub-2018.8-BETA.war mqe-message-hub/
+cp ../mqe-message-hub/target/mqe-message-hub-*.war mqe-message-hub/
