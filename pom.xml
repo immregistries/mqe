@@ -18,6 +18,5 @@
     <module>../mqe-hl7-util</module>
     <module>../mqe-validator</module>
     <module>../mqe-message-hub</module>
-    <module>../nist-validator-connector</module>
   </modules>
 </project>
