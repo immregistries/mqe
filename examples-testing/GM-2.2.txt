@@ -1,0 +1,6 @@
+MSH|^~\&|||||20160805102500-0600||VXU^V04^VXU_V04|1cuT-A.01.01.3n|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS
+PID|1||1234^^^AIRA^MR||Pecos^Sawyer^Kyoko^^^^L|Marion^Valisa^^^^^M|20000725|F||2106-3^White^CDCREC|350 Greene Cir^^Little Lake^MI^49833^USA^P||^PRN^PH^^^906^3464569|||||||||2186-5^not Hispanic or Latino^CDCREC||N||||||N
+PD1|||||||||||02^Reminder/Recall - any method^HL70215|N|20160805|||A|20160805|20160805|
+NK1|1|Pecos^Valisa^Marion^^^^L|MTH^Mother^HL70063|350 Greene Cir^^Little Lake^MI^49833^USA^P|^PRN^PH^^^906^3464569|
+ORC|RE||F81S3495.3^AIRA|
+RXA|0|1|20040805||03^MMR^CVX|999|||01^Historical^NIP001|||||||||||CP|A|

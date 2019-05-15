@@ -1,0 +1,7 @@
+MSH|^~\&|||||20160805102500-0600||VXU^V04^VXU_V04|1cuT-A.01.01.3n|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS
+PID|1||1234^^^AIRA^MR||Pecos^Sawyer^^^^^L||20120725|F
+ORC|RE||F81S3495.3^AIRA
+RXA|0|1|20160805||94^MMRV^CVX|0.5|mL^milliliters^UCUM||00^Administered^NIP001||||||Q3110HZ||MSD^Merck and Co^MVX||||A
+OBX|1|CE|64994-7^Vaccine funding program eligibility category^LN|1|V02^VFC eligible - Medicaid/Medicaid Managed Care^HL70064||||||F
+OBX|2|CE|69764-9^Document Type^LN|2|253088698300013411100521^Measles Mumps Rubella Varicella VIS^cdcgs1vis||||||F
+OBX|3|DT|29769-7^Date Vis Presented^LN|2|20160805||||||F
